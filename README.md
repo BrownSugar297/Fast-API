@@ -1,4 +1,4 @@
-# 🎓 Student Registry API 
+## 🎓 Student Registry API 
 
 A RESTful API built with **FastAPI** and **PostgreSQL** for managing student records with secure JWT-based authentication. The system supports two user roles: *Stoners* (registered users/admins) and *Locals* (students being managed).
 
